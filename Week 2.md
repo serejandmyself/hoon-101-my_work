@@ -13,9 +13,9 @@ Build a naked generator that takes a noun and checks if that noun is a cell or a
 
 My answer:
 
-|=  a=*
-?@  a
-?:  =(0 (mod a 2))
-"Even atom"
-"Odd atom"
-"Cell"
+|=  a=* <br>
+?@  a <br>
+?:  =(0 (mod a 2)) <br>
+"Even atom" <br>
+"Odd atom" <br>
+"Cell" <br>
