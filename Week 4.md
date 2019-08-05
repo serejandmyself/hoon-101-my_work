@@ -16,3 +16,16 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 Urbit is a personal server built from scratch.
 1.6.1 Walkthrough: Ackermann Function  - Urbit
 Urbit is a personal server built from scratch.
+
+<br>
+
+My answer: <br>
+
+|=  a=@<br>
+=/  b  0<br>
+|-<br>
+?:  =(a 0)  b<br>
+?:  |(=(0 (mod a 3)) =(0 (mod a 5)))<br>
+$(b(add a b), a (dec a))<br>
+$(a (dec a))<br>
+
