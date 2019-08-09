@@ -16,4 +16,6 @@ https://pastebin.com/1M3sm6tW
 
 
 Here is the skeleton of a naked generator. Complete it so that it takes a tape as an argument and produces a tape as it’s output which is a translation of the input tape into Morse Code. 
-https://pastebin.com/xx5WPJGV
+https://pastebin.com/xx5WPJGV <br>
+
+My answers: <br>
